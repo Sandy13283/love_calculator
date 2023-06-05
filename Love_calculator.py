@@ -24,4 +24,3 @@ V=D.count("v")
 love=L+O+V+E
 love_score=str(true)+str(love)
 print(f"Your love score is {love_score}%")
-
